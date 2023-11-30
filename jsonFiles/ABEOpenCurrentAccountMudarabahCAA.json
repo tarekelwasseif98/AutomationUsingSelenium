@@ -1,0 +1,14 @@
+[
+ {
+  "tcId": "FCB-9827",
+  "summary": "IslamicBanking_MudarabahCAA_Open_IslamicCurrentAccount_Corporate_CACO_ByMaker_A1",
+  "username": "PT1",
+  "password": "Infy@123",
+  "menu": "OICAC",
+  "cif": "'06579430",
+  "schemeCode": 1610,
+  "generalLedgerSubheadCode": 21901,
+  "expectedResult": "successfully",
+  "linkedTcid": "FCB-9836"
+ }
+]

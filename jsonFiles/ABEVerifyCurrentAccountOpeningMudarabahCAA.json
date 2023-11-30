@@ -1,0 +1,11 @@
+[
+ {
+  "tcId": "FCB-9836",
+  "summary": "IslamicBanking_MudarabahCAA_Verify_IslamicCurrentAccount_Corporate_CACO_ByChecker_B1",
+  "username": "PT2",
+  "password": "Infy@123",
+  "menu": "VICAO",
+  "accountId": "'16100657943001160",
+  "expectedResult": "successfully"
+ }
+]

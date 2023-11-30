@@ -1,0 +1,2 @@
+tcId,summary,username,password,menu,accountId,expectedResult
+FCB-9836,IslamicBanking_MudarabahCAA_Verify_IslamicCurrentAccount_Corporate_CACO_ByChecker_B1,PT2,Infy@123,VICAO,'16100657943001160,successfully
